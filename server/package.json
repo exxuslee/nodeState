@@ -1,0 +1,18 @@
+{
+  "name": "diagnosticsofthenodestate_server",
+  "version": "1.0.0",
+  "description": "Diagnostics of the node state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Exx",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.1.1",
+    "firebase": "^7.23.0",
+    "firebase-admin": "^9.2.0"
+  },
+  "devDependencies": {}
+}

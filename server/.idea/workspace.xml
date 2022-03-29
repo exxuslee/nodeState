@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5f9a86-8e1d-487c-9a8b-4f76bc2c377f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i1Putd9nB6rH89WEsxLwaiNKrq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webonido" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\App\Diagnosticsofthenodestate\diagnosticsofthenodestate_server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5f9a86-8e1d-487c-9a8b-4f76bc2c377f" name="Default Changelist" comment="" />
+      <created>1601072350850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601072350850</updated>
+      <workItem from="1601072353453" duration="4970000" />
+      <workItem from="1601143045241" duration="12975000" />
+      <workItem from="1601200507182" duration="2222000" />
+      <workItem from="1601232696166" duration="6974000" />
+      <workItem from="1601239701862" duration="790000" />
+      <workItem from="1601240511977" duration="1979000" />
+      <workItem from="1601529791638" duration="59000" />
+      <workItem from="1601529943243" duration="342000" />
+      <workItem from="1601530577774" duration="183000" />
+      <workItem from="1601531671769" duration="1652000" />
+      <workItem from="1601534171625" duration="35000" />
+      <workItem from="1601534398857" duration="466000" />
+      <workItem from="1601536112479" duration="741000" />
+      <workItem from="1601538204878" duration="6839000" />
+      <workItem from="1601552955166" duration="4192000" />
+      <workItem from="1601625436059" duration="1570000" />
+      <workItem from="1601634684129" duration="1117000" />
+      <workItem from="1601888672777" duration="2845000" />
+      <workItem from="1602055364321" duration="1216000" />
+      <workItem from="1602056952327" duration="725000" />
+      <workItem from="1602486874484" duration="84000" />
+      <workItem from="1602489129837" duration="2152000" />
+      <workItem from="1602500579796" duration="12000" />
+      <workItem from="1602500603190" duration="1317000" />
+      <workItem from="1602502024712" duration="6323000" />
+      <workItem from="1602562708837" duration="14197000" />
+      <workItem from="1602589746403" duration="277000" />
+      <workItem from="1602825262423" duration="5563000" />
+      <workItem from="1604313783733" duration="719000" />
+      <workItem from="1604392574173" duration="8488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

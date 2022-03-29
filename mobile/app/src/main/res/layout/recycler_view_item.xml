@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+  <TextView
+      android:id="@+id/lstPoint"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_gravity="center"
+      android:layout_weight="1"
+      android:gravity="center"
+      android:padding="5dp"
+      android:textSize="18sp"
+      android:visibility="visible"
+      tools:text="@tools:sample/lorem" />
+
+  <TextView
+      android:id="@+id/lstGreen"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_weight="1"
+      android:padding="5dp"
+      android:textSize="18sp"
+      android:visibility="gone"
+      android:background="@color/lightGreen"
+      tools:text="@tools:sample/lorem" />
+
+  <TextView
+      android:id="@+id/lstYellow"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_weight="1"
+      android:padding="5dp"
+      android:textSize="18sp"
+      android:visibility="gone"
+      android:background="@color/lightYellow"
+      tools:text="@tools:sample/lorem" />
+
+  <TextView
+      android:id="@+id/lstRed"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:layout_weight="1"
+      android:padding="5dp"
+      android:textSize="18sp"
+      android:visibility="gone"
+      android:background="@color/lightRed"
+      tools:text="@tools:sample/lorem" />
+
+  <EditText
+      android:id="@+id/lstMI"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:autofillHints=""
+      android:background="@color/colorWhite"
+      android:ems="10"
+      android:inputType="numberDecimal"
+      android:textSize="24sp"
+      android:visibility="gone"
+      tools:ignore="LabelFor"
+      tools:text="@tools:sample/lorem" />
+
+
+</LinearLayout>

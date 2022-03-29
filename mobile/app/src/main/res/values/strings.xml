@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diagnostics of the node state</string>
+    <string name="lblCeh">Цех</string>
+    <string name="lblAgregat">Агрегат</string>
+    <string name="lblMehanizm">Механизм</string>
+    <string name="lblUzel">Узел</string>
+    <string name="upload">Записать</string>
+
+    <string name="lblInput">Текст</string>
+</resources>
